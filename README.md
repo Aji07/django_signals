@@ -20,11 +20,6 @@ This project demonstrates Django signals and their behavior in terms of synchron
    git clone https://github.com/Aji07/django_signals.git
    cd django-signals
 
-
-Create a virtual environment:
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    
 Install dependencies:
     pip install -r requirements.txt
 
